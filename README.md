@@ -36,7 +36,11 @@
 ### ⏳ Coding Activity
 
 <!--START_SECTION:waka-->
-*WakaTime stats will appear here once you set up the Action! (See setup instructions below)*
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
