@@ -36,11 +36,7 @@
 ### ⏳ Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
+*WakaTime stats will appear here once you set up the Action! (See setup instructions below)*
 <!--END_SECTION:waka-->
 
 ---
@@ -49,5 +45,5 @@ No activity tracked
 
 <p align="center">
   <a href="mailto:j.syndicate@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/drpetro"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/malichevsky"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
