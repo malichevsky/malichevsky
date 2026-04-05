@@ -23,8 +23,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malichevsky&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malichevsky&layout=compact&theme=onedark" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=malichevsky&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malichevsky&layout=compact&theme=onedark" alt="Top Languages" />
 </div>
 
 <div align="center">
