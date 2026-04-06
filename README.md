@@ -35,16 +35,9 @@
 
 ### ⏳ Coding Activity
 
-<!--START_SECTION:waka-->
-
-```txt
-Python       10 mins               ██████████████▒░░░░░░░░░░   57.91 %
-Markdown     7 mins                ██████████░░░░░░░░░░░░░░░   40.58 %
-Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-```
-
-<!--END_SECTION:waka-->
+<div align="center">
+  <img src="./profile/wakatime.svg" alt="WakaTime Metrics" />
+</div>
 
 ---
 
