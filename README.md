@@ -36,7 +36,14 @@
 ### ⏳ Coding Activity
 
 <!--START_SECTION:waka-->
-*WakaTime stats will appear here once you set up the Action! (See setup instructions below)*
+
+```txt
+Python       10 mins               ██████████████▒░░░░░░░░░░   57.91 %
+Markdown     7 mins                ██████████░░░░░░░░░░░░░░░   40.58 %
+Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
