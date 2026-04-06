@@ -19,7 +19,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=1e1e1e&title_color=3b82f6&text_color=f3f4f6&icon_color=3b82f6&border_color=333333&include_all_commits=true&count_private=true'
+          options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=00000000&hide_border=true&title_color=3b82f6&text_color=f3f4f6&icon_color=3b82f6&include_all_commits=true&count_private=true'
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: 'username=${{ github.repository_owner }}&layout=compact&bg_color=1e1e1e&title_color=3b82f6&text_color=f3f4f6&icon_color=3b82f6&border_color=333333'
+          options: 'username=${{ github.repository_owner }}&layout=compact&bg_color=00000000&hide_border=true&title_color=3b82f6&text_color=f3f4f6&icon_color=3b82f6'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
